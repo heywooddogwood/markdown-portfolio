@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Dogs :dog2:
+- Mouse :mouse2:
+- Cats :cat:
+  1. Potato :potato:
+  2. Tomato :tomato:
